@@ -1,5 +1,5 @@
 # BibleApp
-Various Bible versions in HTML.
+Various Bible versions in HTML. Note, this is the electron version. 
 View Here or download and open index.html
 https://christislord12.github.io/html/index.html
 ![Alt text](screenshot.png?raw=true "Screenshot")
